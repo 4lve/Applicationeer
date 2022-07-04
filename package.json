@@ -1,15 +1,17 @@
 {
-  "name": "exploding_kitten",
+  "name": "applicationeerv2",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alve",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "googleapis": "^80.1.0"
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "googleapis": "^100.0.0",
+    "wokcommands": "^1.5.3"
   }
 }
